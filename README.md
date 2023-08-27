@@ -21,7 +21,7 @@ Assets: Directory for storing images, fonts, or other static resources used in t
 Examples: Provides example pages and components to showcase different frontend design concepts.
 Documentation: Includes any relevant documentation or instructions for using and extending the project.
 
-# Clone the repository: git clone https://github.com/Abdul-Rahman99/eCommerce-nodejs-api.git
+# Clone the repository: git clone https://github.com/Abdul-Rahman99/Dar-Hafs.git
 
 # Contributing:
 
